@@ -1,1 +1,5 @@
-# Knapsack-Dynamic-Programming
+# Knapsack (0/1) -Dynamic-Programming
+
+India Paints factory produces paints in various colours. The factory has a single production line that can produce only one colour in a given moment. Its capacity is also limited, i.e., 1000 litres per day regardless of the colour produced. Different colours have different production costs and are sold at different prices, for e.g., white is cheap to produce and is selling price is low. Gold is expensive to produce because metal sand has to be added in the paint to give it a shiny note. Gold is also sold at higher price. Red lies somewhere in between. Different customer requires different amount of paint variants. They need your help in selecting the mix of production that maximise the profit. For this problem we can assume that there is no dependency of one paint on the other. If there are multiple solutions with same profit, choose the one which results in maximum utilization of production capacity and selection of paints as well.
+
+Problem Statement : Formulate an efficient *Recursive algorithm using Dynamic Programming* to determine how to select the paints to be produced and maximize production.
